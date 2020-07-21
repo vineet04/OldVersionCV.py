@@ -1,0 +1,2 @@
+# OldVersionCV.py
+Python script to remove old version of content view to keep /var/lib/pulp file system in check
