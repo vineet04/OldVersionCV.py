@@ -1,4 +1,4 @@
-# Removal of Old content view in Red Hat Satellite
+# Removal of Old content view version in Red Hat Satellite 6
 Python script "OldVersionCV.py" to remove old version of content view in order to keep /var/lib/pulp file system in check.
 
 - Verified on Red Hat Satellite 6.5
